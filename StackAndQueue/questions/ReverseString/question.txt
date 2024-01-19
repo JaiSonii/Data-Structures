@@ -1,0 +1,8 @@
+Stack: Reverse String ( ** Interview Question)
+The reverseString method takes a single parameter String, which is the string you want to reverse.
+
+Return a new String with the letters in reverse order.
+
+This method will be written in the same class as the main method so it will be static.  For more information on static methods click on "Hints."
+
+This will use the Stack class we created in the last two coding exercises:
